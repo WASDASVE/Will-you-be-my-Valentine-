@@ -57,7 +57,7 @@ const messages = [
     "Are you sure?",
     "emin misin?",
     "Askim?",
-    "Ben seni coook...",
+    "Ben seni cooook...",
     "sevviyorum",
     "wie ich weis du spammst diese taste.",
     "tanirim seni.....",
