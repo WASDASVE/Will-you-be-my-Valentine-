@@ -59,10 +59,10 @@ const messages = [
     "emin misin?",
     "lan...",
     "Just think about it!",
-    "kirarim bacaklarini...",
-    "wie ich weis du spammst diese taste...",
-    "tanirim seni...",
-    "hab voll hunger...",
+    "wie ich weis du spammst diese taste.",
+    "tanirim seni.....",
+    "you choose the heartcard you stuck for ever  ❤️...",
+    "Ruhesim  ❤️...",
     "you choose the heartcard you stuck for ever  ❤️"
 ];
 
