@@ -55,10 +55,10 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure??",
     "emin misin?",
-    "lan...",
-    "Just think about it!",
+    "Askim?",
+    "Ben seni coook...",
+    "sevviyorum",
     "wie ich weis du spammst diese taste.",
     "tanirim seni.....",
     "you choose the heartcard you stuck for ever  ❤️...",
